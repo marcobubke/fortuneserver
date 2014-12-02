@@ -1,0 +1,10 @@
+{
+    "Name" : "Fortune Server",
+    "ShortDescription" : "This example is intended to be run alongside the Fortune Client example or the Blocking Fortune Client Example.",
+    "DownloadLocation" : "https://api.github.com/repos/marcobubke/fortuneclient/zipball/master",
+    "Icon" : "network.png",
+    "Id" : 8,
+    "Tags" : "core tcp server advanced",
+    "ProjectFile" : "fortuneserver.pro",
+    "LongDescription" : "<p>It uses QTcpServer to accept incoming TCP connections, and a simple QDataStream based data transfer protocol to write a fortune to the connecting client (from the Fortune Client example), before closing the connection.</p>"
+}
