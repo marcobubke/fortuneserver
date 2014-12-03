@@ -1,7 +1,7 @@
 {
     "Name" : "Fortune Server",
     "ShortDescription" : "This example is intended to be run alongside the Fortune Client example or the Blocking Fortune Client Example.",
-    "DownloadLocation" : "https://api.github.com/repos/marcobubke/fortuneclient/zipball/9c692d76d5c108523cc0c5e07ed806821bc50ba7",
+    "DownloadLocation" : "https://api.github.com/repos/marcobubke/fortuneserver/zipball/$SHA",
     "Icon" : "network.png",
     "Id" : 8,
     "Tags" : "core tcp server advanced",
